@@ -1,3 +1,11 @@
+# Traffic Light Controller (Verilog)
+
+Verilog FSM for a traffic light with pedestrian button — simulation & testbench included.  
+![Waveform](docs/waveform.png)
+
+
+
+
 # Traffic-light-controller
 Verilog Traffic Light Controller (FSM) + testbench + waveform
 # Traffic Light Controller (Verilog)
