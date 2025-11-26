@@ -12,7 +12,7 @@ Verilog Traffic Light Controller (FSM) + testbench + waveform
 
 **Description**  
 Finite State Machine (FSM) based traffic light controller with North-South & East-West lanes and pedestrian request handling. RTL is synthesizable and testbench included.
-
+![Image](https://github.com/Shivaaaydv/Traffic-light-controller/blob/main/Traffic%20Light%20Controller.png)
 ## Features
 - One-hot encoded FSM
 - Parameterized timing
